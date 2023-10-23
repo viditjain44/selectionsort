@@ -1,0 +1,104 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+body{
+   background-image: url(sorting.jpg/sorting2.jpg.png);
+   background-repeat: repeat;
+}
+.fo{
+    display: flex;
+     margin-left: 70%;
+     
+}
+
+.l2{
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav{
+    background-color: rgb(20, 16, 14);
+    padding: 1em;
+    /* padding: fixed; */
+      
+}
+.s1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+    margin-left: 10%;
+    color: antiquewhite;
+}
+.s2{
+    font-family: cursive;
+    font-size: 150%;
+    margin-top: 1.5em;
+    color:#F9F871;
+    /* display: wrap; */
+    margin-left: 6em;
+    margin-right: 4em;
+}
+.s3{
+    font-family: cursive;
+    font-size: 150%;
+    color: rgb(194, 247, 232);
+    /* display: wrap; */
+    margin-left: 6em;
+    margin-right: 4em;
+}
+.s4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1em;
+    border-radius: 20px;
+    margin-top: 4em;
+    cursor: pointer;
+    color: rgb(66, 15, 2);
+    background-color: rgb(254, 110, 129);
+    border-color: rgb(210, 122, 213);
+}
+.u{
+    margin-top: 1.2em;
+}
+.btn:hover{
+    background-color: rgb(251, 40, 40);
+}
+.cn{
+    margin-top: 6%;
+    margin-left:4%;
+    color: #F9F871;
+}
+.foot{
+     display: flex;
+     justify-content: space-evenly;
+   
+     /* text-decoration: none; */
+}
+.insta{
+    border-radius: 50px;
+    padding:1.4em;
+    color: darkgreen;
+    background-color: rgb(225, 174, 255);
+    border-color:darkgreen;
+}
+a{
+    text-decoration: none;
+    color: darkgreen;    
+
+}
+.l{
+    display: flex;
+    justify-content: space-evenly;
+}
+.f2,.f3,.f4{
+    color: aliceblue;
+}
+.l{
+    margin-left: 5%;
+    color:rgb(92, 251, 132);
+}
